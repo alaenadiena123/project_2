@@ -1,0 +1,35 @@
+html { 
+  background: url('hp.jpg'); 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: hidden;
+}
+
+body{
+  padding:0;
+  margin:0;
+}
+
+h1{
+  font-family: bbeauty;
+}
+
+header{
+	font-family: bbeauty;
+	color: white;
+	text-align: left;
+}
+
+ul{
+  color: white;
+}
+.container{
+  width:400px;
+  height:400px;
+  position:absolute;
+  top:calc(60vh - 200px);
+  overflow:hidden;
+  color: white;
+}
